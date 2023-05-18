@@ -1,0 +1,18 @@
+# ignore all uploaded files (do not commit to git)
+*
+!.gitignore
+
+# except do not ignore the "seed" images for the "entries" table.
+!/album_pics/
+!/album_pics/1.jpg
+!/album_pics/2.jpg
+!/album_pics/3.jpg
+!/album_pics/4.jpg
+!/album_pics/5.jpg
+!/album_pics/6.jpg
+!/album_pics/7.jpg
+!/album_pics/8.jpg
+!/album_pics/9.jpg
+!/album_pics/10.jpg
+!/album_pics/11.jpg
+!/album_pics/12.jpg
